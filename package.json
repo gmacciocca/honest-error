@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "@gmacciocca/honest-error",
+  "name": "honest-error",
   "description": "Honest-error Kit.",
   "keywords": [
     "error"
